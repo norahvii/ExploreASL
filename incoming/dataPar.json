@@ -1,0 +1,12 @@
+{"x": {
+    "dataset": {
+        "subjectRegexp": "^\\d{3}$",
+        "exclusion": ""},
+    "SESSIONS": ["ASL_1","ASL_2"],
+    "S":{"Atlases": ["Cerebellum-Cortex"]},
+    "Q":{
+    "Initial_PLD": 1900.0,
+    "LabelingDuration": 700
+   }}
+}
+
