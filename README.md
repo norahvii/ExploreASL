@@ -1,3 +1,4 @@
+```bash
 .
 ├── README.md
 ├── data
@@ -51,5 +52,5 @@
 │   │           └── 9_Mag_Images
 │   └── studyPar.json
 └── run.sh
-
 44 directories, 8 files
+```
